@@ -36,8 +36,7 @@ This project was developed with the following technologies:
 - CSS
 - Git
 - Github
-- [Figma](https://www.figma.com/file/WmpYQBciFwnL8CqV4JibvO/Explorer-(Copy)-(Copy)?type=design&node-id=16-106&mode=design&t=R1eLxVHoDX0Z6Wms-0)
-
+- [Figma](https://www.figma.com/design/WmpYQBciFwnL8CqV4JibvO/SOCKETSECT?node-id=16%3A106&t=TKnicraPaEmOZoHD-1)
 </div>
 
 <div id="-contact">
